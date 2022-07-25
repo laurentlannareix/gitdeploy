@@ -1,4 +1,4 @@
-# deplay from master to prod server
+# deploy from master to prod server
 Deploy git projects to production server
 
 
