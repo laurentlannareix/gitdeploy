@@ -21,4 +21,5 @@ Deploy git projects to production server
 | ------ | ------ |
 | your.mail@domain.fr | The user's email used for sending the email. |
 | password | The email password. (!) Better use an encrypted password from outside the file |
-| recipient1@domain.fr & recipient2@domain.fr | Recipients that will receive the email |
+| your_user_name_or_server_name | Name displayed into the email header |
+| recipient1@domain.fr recipient2@domain.fr | Recipients that will receive the email |
