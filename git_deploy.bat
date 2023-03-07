@@ -6,5 +6,5 @@ git stash clear
 git stash
 git pull https://github.com/github-username/mnpaf.git master
 conda activate env-name
-"C:\path-to-env-python-exe-file\python.exe" "F:\name-of-python-file-to-send-deployment-alert\git_mailer.py"
+"C:\path-to-env-python-file\python.exe" "F:\path-to-git-mailer-file\git_mailer.py"
 PAUSE
