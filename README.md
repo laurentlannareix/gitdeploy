@@ -1,8 +1,9 @@
-# deploy from master to prod server
+# Description
+
 Deploy git projects to production server
 
 
-## Basic Usage
+## Getting started
 
 * Ensure you have a conda environment.
 * Change the following variables with your own values - git_deploy file :
